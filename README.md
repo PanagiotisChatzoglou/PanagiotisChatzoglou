@@ -1,5 +1,8 @@
-![Panagiotis Chatzoglou GitHub Banner](https://your-custom-thumbnail-link.com)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://your-dark-theme-banner-link.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://your-light-theme-banner-link.com">
+  <img alt="Panagiotis Chatzoglou GitHub Banner" src="https://your-light-theme-banner-link.com">
+</picture>
 # Χαίρετε 👋 I'm Panagiotis Chatzoglou
 
 I'm a Software Engineer and Electrical & Computer Engineering student at AUTh, passionate about full-stack development, software architecture, and AI-powered solutions. I build scalable, production-ready applications and love exploring new technologies to solve real-world problems.
@@ -44,7 +47,6 @@ I'm a Software Engineer and Electrical & Computer Engineering student at AUTh, p
 
 ## 📊 GitHub Stats
 
-![Panagiotis's GitHub stats](https://github-readme-stats.vercel.app/api?username=PanagiotisChatzoglou&show_icons=true&theme=default)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanagiotisChatzoglou&layout=compact&theme=default)
 
@@ -52,7 +54,6 @@ I'm a Software Engineer and Electrical & Computer Engineering student at AUTh, p
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=PanagiotisChatzoglou&theme=flat&column=4)
 
-![Metrics](https://github.com/PanagiotisChatzoglou/github-metrics/blob/main/github-metrics.svg)
 
 ---
 
