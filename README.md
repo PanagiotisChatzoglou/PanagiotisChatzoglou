@@ -48,6 +48,12 @@ I'm a Software Engineer and Electrical & Computer Engineering student at AUTh, p
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanagiotisChatzoglou&layout=compact&theme=default)
 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=PanagiotisChatzoglou&theme=default)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=PanagiotisChatzoglou&theme=flat&column=4)
+
+![Metrics](https://github.com/PanagiotisChatzoglou/github-metrics/blob/main/github-metrics.svg)
+
 ---
 
 ## 💬 Let's Connect
