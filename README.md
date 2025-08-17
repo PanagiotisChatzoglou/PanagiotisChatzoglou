@@ -1,4 +1,4 @@
- # Χαίρετε 👋 I'm Panagiotis Chatzoglou
+ # 👋 I'm Panagiotis Chatzoglou
 
 I'm a Software Engineer and Electrical & Computer Engineering student at AUTh, passionate about full-stack development, software architecture, and AI-powered solutions. I build scalable, production-ready applications and love exploring new technologies to solve real-world problems.
 
